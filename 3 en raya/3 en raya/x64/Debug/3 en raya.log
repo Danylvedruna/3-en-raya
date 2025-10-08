@@ -1,0 +1,5 @@
+﻿  3 en raya.cpp
+C:\Users\koric\source\repos\3 en raya\3 en raya\3 en raya.cpp(7,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\koric\source\repos\3 en raya\3 en raya\3 en raya.cpp(96,30): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+C:\Users\koric\source\repos\3 en raya\3 en raya\3 en raya.cpp(100,30): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+  3 en raya.vcxproj -> C:\Users\koric\source\repos\3 en raya\x64\Debug\3 en raya.exe
